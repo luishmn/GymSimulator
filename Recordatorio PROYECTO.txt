@@ -1,0 +1,11 @@
+PENDIENTES PARA PRESENTAR PROYECTO DE SIMULACIÓN
+
+- Actualizar el Documento de Requerimientos
+- Formular preguntas que solucionará el ejericio:
+      Ejemplo. - Cuántas personas asistireron en total al gimnasio durante la simulación
+
+- Analizar funciones de threading para evaluar en qué areas del proyecto se pueden implementar
+- Avance del código para verse más presentable
+- Analizar sobre qué otras tablas se pueden incluir o hacen falta
+
+- Crear una presentación para incluír todos los elementos del proyecto
