@@ -1,2 +1,2 @@
-# GymCode
+# GymSimulator
 My simulation final project 
