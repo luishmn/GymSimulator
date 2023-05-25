@@ -1,0 +1,50 @@
+PENDIENTES PARA PRESENTAR PROYECTO DE SIMULACIÓN
+
+**********************************************************************************
+
+- ******* Actualizar el Documento de Requerimientos
+
+- ******* Agregar los gastos del gym al excel
+
+- ******* Crear tablas de probabilidad que aún se puedan utilizar
+  Idas al baño
+  etc
+
+- ******* Descargar imágenes para los botones en la simulación
+
+- ******* Hacer gif de video de tevvez
+
+- ******* Crear diagrama para los procesos del programa
+
+- *******Crear una iteración en excel para conocer el modelo
+
+- Crear los diseños de las ventanas, botones, títulos
+
+- Crear plano con los elementos del lugar
+
+- Crear imágenes alusivas al gimnasio para la simulación
+
+
+- Analizar funciones de threading para evaluar en qué areas del proyecto se pueden implementar
+
+- Investigar el treeview para poder editar los valores de probabilidad
+
+- Investigar las funciones con la librería datetime
+
+- Investigar los canvas para poder editar los valores de probabilidad
+
+
+- Crear un apartado para que se puedan editar los valores de 
+  probabilidad y gestionar las tablas para que puedan estresarse
+
+- Programar la simulación
+
+- Formular incógnitas sobre lo que resolverá la simulación
+
+- Crear presentación con los distintos avances del proyecto
+
+
+OPCIONAL
+- Que se pueda modificar la cantidad de máquinas que se pueden
+  utilizar en un área determinada
+

@@ -1,0 +1,38 @@
+
+LISTA DE TABLAS PARA INTEGRAR A LA VENTANA DE DATOS
+
+Caja día cero
+Cantidad de personsa que asisten en el día
+Probabilidad de que una persona sea cliente o usuario			
+Probabilidad de escoger una suscripción específica			
+Probabilidad de que una persona compre una cantidad de productos durante el día		
+Probabilidad de comprar un tipo de producto
+Probabilidad de comprar distintas porciones			
+Probabilidad de comprar tal botella de agua
+Probabilidad de comprar una cantidad de barras protéicas				
+Probabilidad de comprar una cantidad de bebidas energéticas				
+SI SE ESCOGIO PROTEINA: Probabilidad de comprar de una marca y sabor 			
+SI SE ESCOGIO CREATINA: Probabilidad de comprar de una marca y sabor 			
+SI SE ESCOGIO PREENTRENO: Probabilidad de comprar de una marca y sabor 			
+Probabilidad de tardar determinado tiempo calentando
+Probabilidad de escoger tal maquina para calentamiento
+Probabilidad de que al calentar luego vaya al área de cardio antes de entrenar						
+Probabilidad de escoger tal máquina o herramienta para su entrenamiento						
+Probabilidad de que una persona entrene en un área del gimnasio						
+Probabilidad de que una persona haga una cantidad de ejercicios en su rutina						
+Probabilidad de que use una cantidad de máquinas					
+Probabilidad de tardar determinado tiempo en la máquina					
+Probabilidad de la máquina se dañe mientras es usada					
+Probabilidad de escoger tal máquina o herramienta para su entrenamiento						
+AREA DE PECHO: Probabilidad de escoger tal máquina o herramienta para su entrenamiento						
+AREA DE ESPALDA: Probabilidad de escoger tal máquina o herramienta para su entrenamiento						
+AREA DE PIERNA: Probabilidad de escoger tal máquina o herramienta para su entrenamiento						
+AREA DE PESAS: Probabilidad de escoger tal máquina o herramienta para su entrenamiento
+Probabilidad de ir al baño acabando un ejercicio				
+Probabilidad de que tarde un tiempo en el baño					
+Pobabilidad de que la persona se lesione al hacer algún ejercicio						
+Probabilidad de que un lesionado requiera hospitalización				 						
+Probabilidad de que al terminar sus ejercicios se duche					
+Probabilidad de tardar un tiempo en la ducha					
+Probabilidad de que use un banco al salir de la ducha					
+Probabilidad de tardar un tiempo usando el banco					  
