@@ -20,10 +20,7 @@ PENDIENTES PARA PRESENTAR PROYECTO DE SIMULACIÓN
 
 - Crear los diseños de las ventanas, botones, títulos
 
-- Crear plano con los elementos del lugar
-
-- Crear imágenes alusivas al gimnasio para la simulación
-
+- Crear plano del gimnasio con los elementos del lugar
 
 - Analizar funciones de threading para evaluar en qué areas del proyecto se pueden implementar
 
@@ -33,15 +30,11 @@ PENDIENTES PARA PRESENTAR PROYECTO DE SIMULACIÓN
 
 - Investigar los canvas para poder editar los valores de probabilidad
 
-
-- Crear un apartado para que se puedan editar los valores de 
-  probabilidad y gestionar las tablas para que puedan estresarse
-
 - Programar la simulación
 
 - Formular incógnitas sobre lo que resolverá la simulación
 
-- Crear presentación con los distintos avances del proyecto
+- Crear presentación para la entrega del proyecto 
 
 
 OPCIONAL
