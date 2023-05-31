@@ -1,0 +1,4 @@
+Caminadoras, 0.4
+Elíptica, 0.3
+Máquina_de_remo, 0.2
+Escaladora, 0.1

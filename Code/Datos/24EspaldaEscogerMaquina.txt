@@ -1,0 +1,7 @@
+Máquina_de_remo, 0.2
+Máquina_de_polea alta, 0.15
+Máquina_dorsalera, 0.2
+Máquina_pull-up, 0.1
+Barra_de_dominadas, 0.2
+Máquina_de_polea_baja, 0.2
+Barra_olpimpica, 0.15

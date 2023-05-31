@@ -1,0 +1,4 @@
+Bandas_elásticas, 0.3
+Cinturones_para_levantamiento, 0.3
+Pelotas, 0.2
+Tapetes, 0.2

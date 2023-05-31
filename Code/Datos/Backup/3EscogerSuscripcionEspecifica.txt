@@ -1,0 +1,5 @@
+Visita, 0.3
+Semana,	0.05
+Mensualidad, 0.4
+Trimestre, 0.15
+Anualidad, 0.1
