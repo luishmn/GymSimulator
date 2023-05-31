@@ -10,25 +10,23 @@ import os
 from PIL import ImageTk,Image
 
 from simulacion import Simulacion
-from tablas import Tablas
+from tablas import AbrirVentanaTablas
 
 class GymCode(threading.Thread):
     def __init__(self):        
         root=Tk()
-        main_resolution="1280x680+50+50"
+        main_resolution="1280x720+35-30"
         root.title("Proyecto de Simulación")
         root.geometry(main_resolution)
         root.resizable(width=False,height=False)
         root.config(bg="#000000")
         root.overrideredirect(False)
   
-        
         main_imagen=PhotoImage(file="Imagenes/MainIMG/fondo.png")
         cerrarImg=PhotoImage(file="Imagenes/MainIMG/cerrar.png")
         bt1Img=PhotoImage(file="Imagenes/MainIMG/btn1.png")
         bt2Img=PhotoImage(file="Imagenes/MainIMG/btn2.png")
         bt3Img=PhotoImage(file="Imagenes/MainIMG/btn3.png")
-        
         
         Lbl_img_main=Label(root,image=main_imagen).pack()
         
@@ -36,17 +34,49 @@ class GymCode(threading.Thread):
             eo=Simulacion(root)#,)
             
         def open_Tables():
-            eo=Tablas(root)#,)
+            AbrirVentanaTablas(root)
+
+        def Fbtn1_raise(event):
+            btn1.place(y=240)
+        def Fbtn2_raise(event):
+            btn2.place(y=334)
+        def Fbtn3_raise(event):
+            btn3.place(y=428)
+        def FbtnC_raise(event):
+            btnC.place(y=13)
+        
+        def Fbtn1_lower(event):
+            btn1.place(y=243)
+        def Fbtn2_lower(event):
+            btn2.place(y=337)
+        def Fbtn3_lower(event):
+            btn3.place(y=431)
+        def FbtnC_lower(event):
+            btnC.place(y=16)
         
         def cerrar():
             root.destroy()
         
         #Se pueden multiplicar los tiempos por 60 para que se abarquen los minutos de forma real
-        Button(root,image=bt1Img,command=lambda:open_Simulation()).place(x=389,y=243)#,width=503,height=67)
-        Button(root,image=bt2Img,command=lambda:open_Simulation()).place(x=389,y=337)#,width=503,height=67)
-        Button(root,image=bt3Img,command=lambda:open_Tables()).place(x=389,y=431)#,width=503,height=67)
-        Button(root,image=cerrarImg,command=lambda:cerrar()).place(x=1185,y=16,width=73,height=73)
-                        
+        btn1=Button(root,image=bt1Img,command=lambda:open_Simulation(),bd=0,highlightthickness=0)
+        btn1.place(x=389,y=243)#,width=503,height=67)
+        btn2=Button(root,image=bt2Img,command=lambda:open_Simulation(),bd=0,highlightthickness=0)
+        btn2.place(x=389,y=337)#,width=503,height=67)
+        btn3=Button(root,image=bt3Img,command=lambda:open_Tables(),bd=0,highlightthickness=0)
+        btn3.place(x=389,y=431)#,width=503,height=67)
+        btnC=Button(root,image=cerrarImg,command=lambda:cerrar(),bd=0)
+        btnC.place(x=1185,y=16,width=53,height=51)
+        
+        btn1.bind("<Enter>",Fbtn1_raise)
+        btn2.bind("<Enter>",Fbtn2_raise)
+        btn3.bind("<Enter>",Fbtn3_raise)
+        btnC.bind("<Enter>",FbtnC_raise)
+        
+        btn1.bind("<Leave>",Fbtn1_lower)
+        btn2.bind("<Leave>",Fbtn2_lower)
+        btn3.bind("<Leave>",Fbtn3_lower)
+        btnC.bind("<Leave>",FbtnC_lower)
+                                
         root.mainloop()
 
 GymCode()

@@ -1,0 +1,3 @@
+Press de pecho,0.15
+Elevaciones laterales,0.12
+Sentadillas,0.73
