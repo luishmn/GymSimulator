@@ -1,2 +1,0 @@
-Se_lesiona, 0.15
-No_se_lesiona, 0.85

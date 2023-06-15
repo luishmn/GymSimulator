@@ -1,7 +1,0 @@
-Rack_de_Sentadilla, 0.2
-Prensa, 0.2
-Maq_extensión_de_cuadríceps, 0.2
-Máquina_de_fermoral, 0.15
-Máquina_de_pantorrillas, 0.15
-Sentadilla_Smith, 0.5
-Barra_olpimpica, 0.5

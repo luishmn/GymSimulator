@@ -1,2 +1,0 @@
-Requiere_hozpitalización, 0.15
-No_requiere, 0.85

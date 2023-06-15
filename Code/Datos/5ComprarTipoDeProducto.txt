@@ -1,6 +1,0 @@
-Proteína en polvo, 0.2
-Creatina, 0.1
-Pre-entreno, 0.2
-Botella de agua, 0.2
-Barra de proteína, 0.1
-Bebida energética, 0.2

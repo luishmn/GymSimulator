@@ -1,4 +1,0 @@
-Dymatize_fresa, 0.2
-Dymatize_chocolate, 0.3
-Evolution_vainilla, 0.3
-RonnieColeman_chocolate, 0.2

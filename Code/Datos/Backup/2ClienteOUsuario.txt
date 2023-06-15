@@ -1,2 +1,0 @@
-Cliente externo, 0.2
-Usuario del gimnasio, 0.8

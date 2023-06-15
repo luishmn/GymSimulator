@@ -1,3 +1,0 @@
-DragonPharma_Uva, 0.4
-InsaneLabzPsychotic_CottonCandy, 0.4
-CobraLabs_Naranja, 0.2

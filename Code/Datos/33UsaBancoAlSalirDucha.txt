@@ -1,2 +1,0 @@
-Usa_banca, 0.6
-No_usa, 0.4

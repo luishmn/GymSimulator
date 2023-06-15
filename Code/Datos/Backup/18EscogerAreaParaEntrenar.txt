@@ -1,5 +1,0 @@
-Cardio, 0.2
-Pecho, 0.2
-Pierna, 0.2
-Pesas, 0.3
-Spinning, 0.1

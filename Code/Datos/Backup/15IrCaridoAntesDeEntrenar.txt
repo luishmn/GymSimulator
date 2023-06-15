@@ -1,2 +1,0 @@
-Ingresa_al_área, 0.6
-No_ingresa,0.4

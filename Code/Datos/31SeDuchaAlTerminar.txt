@@ -1,2 +1,0 @@
-Se_ducha, 0.75
-No_se_ducha, 0.25

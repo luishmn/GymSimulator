@@ -1,3 +1,0 @@
-SuprHuman_fresa,	0.4
-BirdmanPerformance_uva,	0.3
-MetaNutrition_fresa, 0.3

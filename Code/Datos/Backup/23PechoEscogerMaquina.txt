@@ -1,6 +1,0 @@
-Press_de_banca, 0.2
-Máquina_de_mariposa, 0.05
-Máquina_de_poleas, 0.2
-Máquina_de_Press_Inclinado, 0.2
-Máquina_de_aperturas, 0.15
-Barra_olpimpica, 0.2
