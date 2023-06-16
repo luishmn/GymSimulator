@@ -1,0 +1,11 @@
+Gastos personal de limpieza, 30
+Gastos de agua, 4
+Gastos de electricidad, 7
+Gasto de internet, 12
+Gasto de Spotify, 4
+Pago a entrenadores, 200
+Pago a per limpieza, 100
+Gasto material de baño, 80
+Gasto material limpieza, 60
+Ambulancia del lesionado, 1000
+Reparar maquina,1200

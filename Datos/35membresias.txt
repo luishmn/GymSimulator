@@ -1,0 +1,5 @@
+Visita, 25
+Semana, 120
+Mensualidad, 320
+Trimestre, 800
+Anualidad, 2950

@@ -1,0 +1,2 @@
+Si hace, 0.6
+No hace,0.4

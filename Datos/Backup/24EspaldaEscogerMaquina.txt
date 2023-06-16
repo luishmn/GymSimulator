@@ -1,0 +1,6 @@
+Maquina de remo, 0.2
+Maquina de polea alta, 0.15
+Maquina dorsalera, 0.2
+Barra de dominadas, 0.2
+Maquina de polea baja, 0.1
+Barra olimpica, 0.15

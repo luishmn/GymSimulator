@@ -1,0 +1,6 @@
+Press de banca, 0.2
+Maquina de mariposa, 0.05
+Maquina de poleas, 0.2
+Maquina de Press Inclinado, 0.2
+Maquina de aperturas, 0.15
+Barra olimpica, 0.2

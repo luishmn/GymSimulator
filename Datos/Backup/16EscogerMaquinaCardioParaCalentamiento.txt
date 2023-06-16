@@ -1,0 +1,4 @@
+Caminadoras, 0.4
+Eliptica, 0.3
+Maquina de remo, 0.2
+Escaladora, 0.1

@@ -1,0 +1,4 @@
+Dymatize fresa, 0.2
+Dymatize chocolate, 0.3
+Evolution vainilla, 0.3
+Ronnie Coleman chocolate, 0.2

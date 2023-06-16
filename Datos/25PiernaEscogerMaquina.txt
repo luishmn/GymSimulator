@@ -1,0 +1,7 @@
+Rack de Sentadilla, 0.2
+Prensa, 0.2
+Maquina extension de cuadriceps, 0.2
+Maquina de fermoral, 0.15
+Maquina de pantorrillas, 0.15
+Sentadilla Smith, 0.5
+Barra olimpica, 0.5

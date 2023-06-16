@@ -1,0 +1,6 @@
+Cardio, 0.2
+Pecho, 0.2
+Espalda,0.1
+Pierna, 0.2
+Pesas, 0.2
+Spinning, 0.1
